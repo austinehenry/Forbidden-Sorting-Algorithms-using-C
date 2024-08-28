@@ -44,3 +44,5 @@ int main() {
 
     return 0;
 }
+//Intelligent Design Sort is another theoretical and humorous sorting algorithm that plays on the idea of "intelligent design" in sorting. 
+//The concept is that the sorting process is so well-designed that it appears to require minimal effort.
