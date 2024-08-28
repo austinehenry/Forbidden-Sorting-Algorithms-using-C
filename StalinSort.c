@@ -27,3 +27,6 @@ int main() {
 
     return 0;
 }
+// Stalin sort is a humorous and non-standard sorting algorithm that works by iterating through a list and discarding any elements that are out of order. 
+//The algorithm only keeps elements that are in a non-decreasing sequence, effectively "purging" those that do not maintain the order. 
+//The result is a sorted sequence, but it might be shorter than the original list because some elements are removed.
