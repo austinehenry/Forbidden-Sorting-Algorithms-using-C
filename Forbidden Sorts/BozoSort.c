@@ -46,3 +46,6 @@ int main() {
 
     return 0;
 }
+//Bozosort is similar to Bogosort in that it is an intentionally inefficient and humorous sorting algorithm. 
+//However, instead of generating completely random permutations of the array, Bozosort randomly swaps two elements in the array and checks if the array is sorted after each swap. 
+//The process is repeated until the array is sorted.
